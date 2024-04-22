@@ -1,0 +1,34 @@
+
+body{
+   font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+   
+}
+#container{
+   border: 2px solid red;
+   background: white;
+}
+
+.cabecalho{
+   border: 2px solid red;
+   width: 80%;
+   margin: 75px auto;
+   background: #554840;   
+}
+
+a:visited, a:link{
+   padding: 10px;
+   color: aliceblue;
+   text-decoration: none;
+
+ }
+
+a:hover{
+   background: black;
+ }
+
+#texto{
+   text-align: center;
+   border: 2px solid red;
+   background: pink;
+ }
+
